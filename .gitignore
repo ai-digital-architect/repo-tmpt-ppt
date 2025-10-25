@@ -1,11 +1,6 @@
-# PowerPoint and Office Files
-*.pptx
-*.ppt
-*.pptm
+# PowerPoint temporary files (exclude temp files but allow templates)
 ~$*.pptx
 ~$*.ppt
-
-# PowerPoint temporary files
 *.tmp
 ~*.tmp
 
